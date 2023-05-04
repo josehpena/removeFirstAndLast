@@ -1,0 +1,1 @@
+# Should return null when a unique character is sended.

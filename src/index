@@ -1,0 +1,7 @@
+const removeFaL = () => {
+    return null;
+}
+
+module.exports = {
+    removeFaL
+}

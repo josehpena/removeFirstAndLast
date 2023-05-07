@@ -11,4 +11,8 @@ describe('removeFirstAndLast', () => {
    it(' Should return the number "2" when "123" as sended ', () => {
         expect(removeFaL('123')).toBe("2");
    });
+
+   it('Should return "23" when "1234" is sended', () => {
+        expect(removeFaL('1234')).toBe("23");
+   });
 });
